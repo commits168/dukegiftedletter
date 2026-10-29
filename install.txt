@@ -1,0 +1,6 @@
+To manage the content of your website, please use the CMS.
+You can access it at dukegiftedletter.com/cms.php using the following password: VOC25v1vnwg0oevsDndNJbFNC4uexg
+You can change password by editing the php constant ACMS_PASSWORD in cms.php file on line 42.
+
+
+Thank you for choosing edoms.org.
